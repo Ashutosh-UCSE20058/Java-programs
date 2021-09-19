@@ -31,3 +31,7 @@ class exercise{
 	
 	}	
 }
+
+OUTPUT:-
+Enter the number: 43
+43 is a prime number
