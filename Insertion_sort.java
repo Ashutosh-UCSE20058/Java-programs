@@ -36,3 +36,9 @@ class Insertion_sort{
 	}
 	
 }
+OUTPUT
+Before insertion sort
+9 14 3 2 4 3 11 58 22
+
+After insertion sort
+2 3 3 4 9 11 14 22 58
